@@ -2,8 +2,6 @@
 
 *A data science project quantifying the predictive value of technical indicators for algorithmic trading strategies.*
 
-![Project Preview](https://via.placeholder.com/800x400?text=NVDA+Technical+Analysis+Dashboard)
-
 ![Stock Price Predictions](images/technical_indicators.png)
 *Technical Indicators*
 
